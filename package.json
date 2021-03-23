@@ -1,0 +1,10 @@
+{
+  "name": "simpleDynamicNodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "DanielDeutsch <deudan1010@gmail.com>",
+  "license": "none",
+  "dependencies": {
+    "flow-bin": "^0.45.0"
+  }
+}
